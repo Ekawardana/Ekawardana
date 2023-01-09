@@ -2,7 +2,7 @@ Hello😉, I’m Eka Wardana<br>A Passionate Programmer from Bogor, Indonesia<br
 🎬 I’m Currently Working on Personal Project<br>👨🏻‍🎓 My Last Education Is a Bachelor’s of Computer
 
 ## ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ekawardana&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
