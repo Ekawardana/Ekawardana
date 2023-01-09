@@ -6,6 +6,11 @@ Hello😉, I’m Eka Wardana<br>a Passionate Programmer from Bogor, Indonesia<br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/eka.wardana.3551) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ekawardana/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eka-wardana-100736206/) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/eka.wardana.3551) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ekawardana/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-wardana-100736206/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen.svg?logo=GitHub&logoColor=#F05032)](https://ekawardana.github.io/)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
