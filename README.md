@@ -1,4 +1,5 @@
-Hello😉, I’m Eka Wardana<br>a Passionate Programmer from Bogor, Indonesia<br><br>🔭 I’m currently working on my Website Project<br>💻 I’m currently learning PHP and JavaScript<br>👨🏻‍🎓 My last education is a Bachelor’s of Computer
+Hello😉, I’m Eka Wardana<br>A Passionate Programmer from Bogor, Indonesia<br><br>⏰ Dream : Web Developer Expert<br>💻 I’m Currently Learning PHP and JavaScript<br>
+🎬 I’m Currently Working on Personal Project<br>👨🏻‍🎓 My Last Education Is a Bachelor’s of Computer
 
 ## ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
