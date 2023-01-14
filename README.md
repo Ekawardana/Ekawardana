@@ -9,7 +9,7 @@ Hello😉, I’m Eka Wardana<br><br>💻 I’m Currently Learning PHP and JavaSc
 [![Portfolio](https://img.shields.io/badge/Portfolio-0AC18E.svg?logo=GitHub&logoColor=#F05032)](https://ekawardana.github.io/)
 
 ### ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=shades-of-purple&hide_border=false&include_all_commits=flase&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ekawardana&theme=shades-of-purple&hide_border=false)<br/>
 
 
