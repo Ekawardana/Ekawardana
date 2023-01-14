@@ -12,7 +12,4 @@ Hello😉, I’m Eka Wardana<br><br>💻 I’m Currently Learning PHP and JavaSc
 ![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ekawardana&theme=shades-of-purple&hide_border=false)<br/>
 
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
