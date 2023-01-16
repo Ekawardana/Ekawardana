@@ -8,8 +8,4 @@ Hello😉, I’m Eka Wardana<br><br>💻 I’m Currently Learning PHP and JavaSc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eka-wardana-100736206/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0AC18E.svg?logo=GitHub&logoColor=#F05032)](https://ekawardana.github.io/)
 
-### ⚡ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ekawardana&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ekawardana&theme=shades-of-purple&hide_border=false)<br/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
