@@ -1,5 +1,5 @@
 ### 📂 About:
-Hello😉, I’m Eka Wardana<br><br>💻 I’m Currently Learning PHP and JavaScript<br>
+Hello😉, I’m Eka Wardana<br><br>💻 I’m Currently Learning PHP, JavaScript and VueJs<br>
 🎬 I’m Currently Working on Personal Project<br>👨🏻‍🎓 My Last Education Is a Bachelor’s of Information System
 
 ### 🌐 Socials:
